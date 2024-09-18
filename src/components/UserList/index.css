@@ -1,0 +1,13 @@
+.userList{
+margin:  0 auto;
+margin-top: 50px;
+width: 100%;
+max-width: 1400px;
+padding: 35px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+background-color: #7d3301;
+gap: 20px;
+border-radius: 10px;
+}

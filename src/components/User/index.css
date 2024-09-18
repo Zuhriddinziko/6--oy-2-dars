@@ -1,0 +1,26 @@
+.user{
+    width: 30%;
+    padding: 10px;
+    border:  1px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color:  rgba(147, 113, 195, 0.404);
+    box-shadow: -8px -1px 11px 8px rgba(9, 9, 9, 0.711);
+
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+.name{
+    padding: 0;
+    margin: 15px;
+    font-weight: 800;
+}
+.carr{
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: rgb(6, 37, 37);
+    margin-left: 5px;
+    color: rgb(234, 221, 221);
+}
